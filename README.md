@@ -1,0 +1,1 @@
+This is terraform module used for building and managing the lifecycle of a GKE cluster based on [terraform-google-kubernetes-engine](https://github.com/terraform-google-modules/terraform-google-kubernetes-engine)
